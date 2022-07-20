@@ -18,7 +18,7 @@ OnePage da Empresa de TCC com informações sobre ela e seu projeto inicial, You
 - 👦🏽 [Pablo Santos](https://github.com/pabloroludp)
 - 👦🏽 [Leonardo Piatã](https://github.com/Leonardo014)
 
-## 📌 Tecnologias utilizadas nesse site
+## 📌 Tecnologias utilizadas
  - Front-end: HTML5, CSS3 e Javascript
 
  - Editor de Código (IDE): Visual Studio Code 
